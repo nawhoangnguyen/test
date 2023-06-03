@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:39:13.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GvnHEg_VRQbLXet19JNn" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T13:40:47.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LWaggEs8vQ4xByKxMCKa" version="21.3.7" type="github">
   <diagram name="Page-1" id="ku1RCg__Z8RLZrUs5bY8">
     <mxGraphModel dx="1937" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrXxgvxvrwtz538lRD6f-7" value="Account management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="vrXxgvxvrwtz538lRD6f-7" value="Account management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-270" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vrXxgvxvrwtz538lRD6f-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vrXxgvxvrwtz538lRD6f-15" target="vrXxgvxvrwtz538lRD6f-35" edge="1">
@@ -97,6 +97,11 @@
         <mxCell id="vrXxgvxvrwtz538lRD6f-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vrXxgvxvrwtz538lRD6f-37" target="vrXxgvxvrwtz538lRD6f-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CzZVTYJuviLl7Tjnmbcs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrXxgvxvrwtz538lRD6f-37" target="CzZVTYJuviLl7Tjnmbcs-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vrXxgvxvrwtz538lRD6f-37" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" parent="1" vertex="1">
           <mxGeometry x="-550" y="380" width="120" height="50" as="geometry" />
         </mxCell>
@@ -107,7 +112,7 @@
           <mxGeometry x="-670" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vrXxgvxvrwtz538lRD6f-43" value="Edit route" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="560" width="120" height="50" as="geometry" />
+          <mxGeometry x="-670" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vrXxgvxvrwtz538lRD6f-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vrXxgvxvrwtz538lRD6f-46" target="vrXxgvxvrwtz538lRD6f-50" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,7 +120,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrXxgvxvrwtz538lRD6f-46" value="Book a trip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="vrXxgvxvrwtz538lRD6f-46" value="Book a trip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vrXxgvxvrwtz538lRD6f-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="vrXxgvxvrwtz538lRD6f-50" target="vrXxgvxvrwtz538lRD6f-52" edge="1">
@@ -144,7 +149,7 @@
         <mxCell id="vrXxgvxvrwtz538lRD6f-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3333FF;" parent="1" source="vrXxgvxvrwtz538lRD6f-63" target="vrXxgvxvrwtz538lRD6f-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vrXxgvxvrwtz538lRD6f-63" value="History" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#7EA6E0;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="vrXxgvxvrwtz538lRD6f-63" value="History" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#7EA6E0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="510" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vrXxgvxvrwtz538lRD6f-65" value="Ticket information" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#e292ba;" parent="1" vertex="1">
@@ -161,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7tq_QNrJMx6ZDUZAuJg--2" value="Add to cart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="7tq_QNrJMx6ZDUZAuJg--2" value="Add to cart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="330" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CzZVTYJuviLl7Tjnmbcs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzZVTYJuviLl7Tjnmbcs-8" target="vrXxgvxvrwtz538lRD6f-50">
@@ -172,8 +177,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CzZVTYJuviLl7Tjnmbcs-8" value="popular route" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="CzZVTYJuviLl7Tjnmbcs-8" value="Popular route" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-90" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CzZVTYJuviLl7Tjnmbcs-12" value="Chart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="620" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
